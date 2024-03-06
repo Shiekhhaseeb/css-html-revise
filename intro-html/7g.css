@@ -1,0 +1,25 @@
+.catphoto{
+ 
+
+  width: 50px;
+  height: 50px;
+  object-fit: cover;
+  border-radius: 25px;
+  vertical-align: middle;
+  margin-right: 5px;
+}
+.text{
+height: 25px;
+width: 400px;
+border: none;
+
+
+}
+.tweet{
+  height: 36px;
+  width: 70px;
+  border-radius: 18px;
+  color: white;
+  background-color: rgb(0, 140, 255);
+  border: none;
+}

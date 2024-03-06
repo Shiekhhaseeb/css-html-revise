@@ -1,0 +1,9 @@
+.text{
+ 
+  font-size: 13px; 
+  height: 25px;
+  width: 500;
+  border-radius: 18px;
+  border: none;
+box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
